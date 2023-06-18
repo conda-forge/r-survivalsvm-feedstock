@@ -1,11 +1,11 @@
-About r-survivalsvm
-===================
+About r-survivalsvm-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-survivalsvm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/imbs-hl/survivalsvm
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-survivalsvm-feedstock/blob/main/LICENSE.txt)
 
 Summary: Performs support vectors analysis for data sets with survival outcome. Three approaches are available in the package: The regression approach takes censoring into account when formulating the inequality constraints of the support vector problem. In the ranking approach, the inequality constraints set the objective to maximize the concordance index for comparable pairs of observations. The hybrid approach combines the regression and ranking constraints in the same model.
 
